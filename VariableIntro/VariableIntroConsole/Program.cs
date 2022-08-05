@@ -9,7 +9,7 @@
             string myName = "DJ";
             bool isMarried = false;
             string homeTown = "Pocatello, Idaho";
-            char = '&';
+            char andSymbol = '&';
             decimal pi = 3.14m;
             double randomNumber = 6.23456;
 
